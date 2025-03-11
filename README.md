@@ -19,8 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://recipe-page-ashen-gamma.vercel.app)
 
 ### Built with
 
@@ -30,4 +29,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Useful resources
 
-- [CSS: Control space between bullet and <li>](https://stackoverflow.com/questions/4373046/css-control-space-between-bullet-and-li) 
+- [CSS: Control space between bullet and <li>](https://stackoverflow.com/questions/4373046/css-control-space-between-bullet-and-li)
